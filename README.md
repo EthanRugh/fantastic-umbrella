@@ -11,6 +11,8 @@ Fantastic Umbrella is a fictional e-commerce site, and this repo contains the gu
     - Insomnia
 
 ## Links
-
+Github repo: https://github.com/EthanRugh/fantastic-umbrella
+Walkthrough video: https://watch.screencastify.com/v/Qm5TMWUpn9vzkZzvRAfF
 
 ## Screenshot
+<img width="1198" alt="Screen Shot 2022-02-06 at 11 24 59 PM" src="https://user-images.githubusercontent.com/90535512/152729218-a5a831f7-49a5-4979-acbb-3ac3398d8b9f.png">
